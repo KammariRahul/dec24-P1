@@ -4,7 +4,7 @@ public class Test {
 public static void main(String[] args) {
 	
 		
-		float num = 5.996966666f;
+		float num = 10.996966666f;
 		
 		num = (int)(num * 1000);
 		System.out.println(num);
